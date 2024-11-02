@@ -3,7 +3,6 @@ import { OpenAI } from 'openai';
 import cors from "cors"
 import express from "express"
 import bodyParser from "body-parser";
-import {defaultMiddleware} from '@nlbridge/express';
 
 config()
 
@@ -28,15 +27,15 @@ const openai = new OpenAI({
 
 //my first method that I use now
 app.post("/chatbot", async (req, res) => {
-    const { question, behavior } = req.body;
+    const { question/* , behavior  */} = req.body;
 
     let systemMessage = "You are a helpful assistant."; 
-    if (behavior === "Anthropomorphic") {
-        systemMessage = "You are a empathic assistant with a focus on more human-like conversation.";
-    } else if (behavior === "Robot") {
-        systemMessage = "You are a bot with a focus with giving the necessary informations and being fast rather than acting anthropomorphic.";
+  /*   if (behavior === "Rude") {
+        systemMessage = "You are a very rude assistant, show them tough love.";
+    } else if (behavior === "Kind") {
+        systemMessage = "You are a very nice assistant, be kind.";
     }
-
+ */
     try {
         const response = await openai.chat.completions.create({
             messages: [
@@ -59,13 +58,6 @@ app.post("/chatbot", async (req, res) => {
         res.status(500).send("Internal Server Error");
     }
 });
-
-app.post('/chat-api',
-    defaultMiddleware('openai', {
-        apiKey: api_key,
-        chatModel: 'gpt-3.5-turbo',
-    }),
-);
 
 //! useful functions for later use
 /* get the user session, call populate a thread(iplik)*/

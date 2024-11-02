@@ -1,0 +1,117 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    background-color: #e1e1e1;
+    min-height: 2rem;
+    min-width: 20rem;
+    font-weight: 700;
+    color: #111;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+        background-color: #0056b3;
+    }
+}
+
+.chatbox {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.message {
+    display: flex;
+    margin-bottom: 1rem;
+
+    &.user {
+        justify-content: flex-end;
+    }
+
+    &.bot {
+        justify-content: flex-start;
+    }
+
+    .bubble {
+        max-width: 80%;
+        padding: 1rem;
+        border-radius: 15px;
+        font-size: 1rem;
+        line-height: 1.5;
+
+        &.user {
+            background-color: #007bff;
+            color: white;
+            border-bottom-right-radius: 0;
+        }
+    
+        &.bot {
+            background-color: #e1e1e1;
+            color: black;
+            border-bottom-left-radius: 0;
+        }
+    }
+}
+
+.dropdown {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 320px;
+    background-color: #fff;
+    font-size: 16px;
+    color: #333;
+}
+
+.dropdown:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+.dropdown option {
+    padding: 10px;
+}
+
+.typingIndicator {
+    font-size: 0.9rem;
+    color: gray;
+    margin-top: 5px;
+    animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+}
+
+.error {
+    color: red;
+    font-size: 0.85rem;
+    margin-top: 1rem;
+}
