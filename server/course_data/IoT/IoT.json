@@ -1,0 +1,329 @@
+{
+  "chapter2Header": {
+    "defaultMessage": "Smart, Smarter, Smart City"
+  },
+  "chapter3mainHeader": {
+    "defaultMessage": "The industry of tomorrow"
+  },
+  "finalPage_mainHeader": {
+    "defaultMessage": "Well done!"
+  },
+  "finalPage_para1": {
+    "defaultMessage": "You have reached the end of this module."
+  },
+  "headerPage_button": {
+    "defaultMessage": "Start"
+  },
+  "headerPage_mainHeader": {
+    "defaultMessage": "Internet of Things"
+  },
+  "headerPage_subHeader": {
+    "defaultMessage": "IoT"
+  },
+  "menuMain": {
+    "defaultMessage": "Internet of Things"
+  },
+  "read_less": {
+    "defaultMessage": "Read less"
+  },
+  "read_more": {
+    "defaultMessage": "Read more"
+  },
+  "slide01_hidden": {
+    "defaultMessage": "General"
+  },
+  "slide01_mainHeader": {
+    "defaultMessage": "Welcome to the Connected World!"
+  },
+  "slide01_para1": {
+    "defaultMessage": "Watch the following video as an introduction to the topic of Internet of Things."
+  },
+  "slide02_mainHeader": {
+    "defaultMessage": "Welcome to the Connected World"
+  },
+  "slide02_para1": {
+    "defaultMessage": "Our smartphones have become our daily companions and help out where they can. Where was the electronics store that our colleague recommended the other day? A light touch of the finger on the display starts the navigation app that takes us to our destination. But what actually happens on the other side of the screen?"
+  },
+  "slide02_para2": {
+    "defaultMessage": "The device's own Bluetooth is connected to your vehicle. So the device offers you to link the hands-free system and address book. Once you've set off, the phone's GPS data is combined with traffic data - your device tells you when traffic jams are expected or you're driving faster than allowed. Convenient, right?"
+  },
+  "slide02_para3": {
+    "defaultMessage": "This networking of smart devices is called The Internet of Things, or IoT for short. In this learning module, you will learn more about the IoT and how it can make our lives easier."
+  },
+  "slide03_flipBack1": {
+    "defaultMessage": "The hardware represents the direct interface of the digital and the real world. A wide variety of properties can be measured with the use of sensors. For example, there are sensors for measuring climate, acoustics, speed or light. Think again of your smartphone, which uses sensors to know how bright it is in your environment or where you are at the moment."
+  },
+  "slide03_flipBack2": {
+    "defaultMessage": "The hardware used allows data to be collected in real time. And that around the clock. So we receive a lot of data about the use of the device or information about the environment in which the device is located. But what happens to this enormous amount of data and how can we use it?"
+  },
+  "slide03_flipBack3": {
+    "defaultMessage": "The collected data volumes are so huge and unstructured that we can do rather little with them at first. This is where the software comes into play. The software examines the collected data and evaluates it for us. For example, our smartphone uses sensors to collect data about the lighting conditions in the room. Only after software has evaluated the data can an appropriate response be made."
+  },
+  "slide03_flipBack4": {
+    "defaultMessage": "Connectivity plays a central role in smart devices. Wireless network connections connect smart devices and allow them to communicate with each other. For example, your cell phone is connected to the smart light bulbs in your living room and automatically turns them on when it gets too dark in the room."
+  },
+  "slide03_flipFront1": {
+    "defaultMessage": "Hardware"
+  },
+  "slide03_flipFront2": {
+    "defaultMessage": "Data"
+  },
+  "slide03_flipFront3": {
+    "defaultMessage": "Software"
+  },
+  "slide03_flipFront4": {
+    "defaultMessage": "Connectivity"
+  },
+  "slide03_mainHeader": {
+    "defaultMessage": "Io… What?"
+  },
+  "slide03_para1": {
+    "defaultMessage": "The Internet of Things (IoT) is the networking of physical and virtual objects via the Internet. This creates so-called smart devices that communicate with each other or accept commands. Tasks are thus increasingly carried out fully automatically - so we can make ourselves comfortable. Before we take a closer look at how IoT can make our lives easier, let's take a look at what actually makes these devices smart."
+  },
+  "slide03_para2": {
+    "defaultMessage": "Click on the features of a smart device to learn more."
+  },
+  "slide04_mainHeader": {
+    "defaultMessage": "IoT is Everywhere"
+  },
+  "slide04_para1": {
+    "defaultMessage": "IoT makes all areas of our lives more convenient and efficient. Networked devices are finding their way into our everyday lives, so that - perhaps quite unnoticed - our home is becoming a 'smart home' or the supermarket around the corner is becoming a 'smart store'. But what exactly can a smart home or a smart store do and how do they make our lives easier? The following picture carousel show it."
+  },
+  "slide05_imageCarouselText1": {
+    "defaultMessage": "The term 'smart home' stands for the networking of smart household appliances that communicate both independently with us users and with each other."
+  },
+  "slide05_imageCarouselText2": {
+    "defaultMessage": "Thanks to IoT, the light in a smart home can be controlled intelligently, for example. It is switched on or off where it is needed - by remote control, app, or voice. Or fully automatically by light sensors that determine the lighting conditions. This can save a lot of energy and create a more pleasant light depending on the time of day or mood."
+  },
+  "slide05_imageCarouselText3": {
+    "defaultMessage": "Another advantage of smart homes is particularly noticeable in winter: Thanks to a heating control system, you can preheat or turn off the radiators in each room as needed, anytime and anywhere from your own smartphone. This not only contributes to saving energy and money, but also to a better indoor climate and increased comfort. Who wouldn't want to get into a cozy warm bathroom in the morning?"
+  },
+  "slide05_imageCarouselText4": {
+    "defaultMessage": "But a smart home also offers a big plus when it comes to safety: Thanks to connected water detectors, for example, a ruptured water hose on the washing machine or dishwasher can be detected immediately. Even at a water level of 1.5 millimeters, the user receives a notification via text message and can thus avoid greater damage."
+  },
+  "slide05_mainHeader": {
+    "defaultMessage": "IoT at Home: Smart Living in Smart Homes"
+  },
+  "slide06_imageCarouselText1": {
+    "defaultMessage": "The role of IoT in retail begins with the transport of food. Here, the correct temperature is of great importance. An interruption in the refrigeration chain can lead to food having to be disposed of. Thanks to IoT, this is a thing of the past: transport vehicles and containers are equipped with sensors to measure the chemical composition of substances as well as temperature sensors. These control the optimal storage of food and thus increase its quality and shelf life."
+  },
+  "slide06_imageCarouselText2": {
+    "defaultMessage": "IoT transforms a normal store into a smart store. Gaps on the shelf can be prevented, for example, by equipping them with smart monitoring tools. This way, real-time stock on the shelf is determined and retailers know very quickly which product is doing well and should be reordered. They can also tell when the sell-by date is reached by a product that is doing poorly. For example, an offer can be placed visibly for customers before the product would have to be thrown away."
+  },
+  "slide06_imageCarouselText3": {
+    "defaultMessage": "IoT is also useful for retailers when it comes to saving energy, because supermarkets consume a lot of electricity, for example at the checkout, the refrigerated counter or the reverse vending machine. The electrical appliances are connected with sensors and send important information to the staff, for example, if the freezer door is open for more than 2 minutes. Refrigerators that are empty are also switched off automatically so that they do not cool in vain."
+  },
+  "slide06_mainHeader": {
+    "defaultMessage": "IoT and Shopping: Smart Stores are better Stores"
+  },
+  "slide07_mainHeader": {
+    "defaultMessage": "But there is More!"
+  },
+  "slide07_para1": {
+    "defaultMessage": "Your cell phone talks to your smartwatch, your laptop, your car and your heater. Your refrigerator writes your shopping list and your washing machine sends you a text message when it's done - What may sound a bit crazy at first is already a reality in some households. But was that it? Certainly not - because the digital revolution is just starting up."
+  },
+  "slide07_para2": {
+    "defaultMessage": "Just as the Internet revolutionized the way we communicate, work and live a few years ago, the potential in the Internet of Things is just as huge. The motto is: Think big! You will find out exactly how big we are talking about in the next learning unit ..."
+  },
+  "slide10_mainHeader": {
+    "defaultMessage": "Smart, Smarter, Smart City"
+  },
+  "slide11_mainHeader": {
+    "defaultMessage": "One City, Many Technologies"
+  },
+  "slide11_para1": {
+    "defaultMessage": "In the last chapter, you learned how the Internet of Things is revolutionizing our homes. But it's not just here that new scope is opening up. Entire cities are evolving: Connected buildings and transportation are just two of the many examples of the so-called smart city. Technologies that interact with each other are already shaping our cityscape, and often unrecognized. The smart city not only makes life easier for its residents, but also supports city administration. And quite incidentally, it also enables and facilitates energy-saving and sustainable living. In other words, it's really smart."
+  },
+  "slide11_para2": {
+    "defaultMessage": "The following learning unit gives you the opportunity to discover the city of the future and find out whether and how your own city has already developed. Immerse yourself in a whole new world!"
+  },
+  "slide12_hotspot0_header": {
+    "defaultMessage": "<b>Airplanes</b>"
+  },
+  "slide12_hotspot0_para1": {
+    "defaultMessage": "An airplane consists of millions of individual parts. Over time, these become defective and need to be replaced - ideally before major damage occurs. Countless sensors installed in the aircraft record huge amounts of data during flight. The data is processed in real time and is used to monitor performance and optimize maintenance work."
+  },
+  "slide12_hotspot10_header": {
+    "defaultMessage": "<b>Intelligent street lighting</b>"
+  },
+  "slide12_hotspot10_para1": {
+    "defaultMessage": "There are over 90 million street lamps in Europe - reason enough to optimize the power consumption of street lamps. In most cities, the lights are switched on by time. It is better to switch on street lamps when actually needed. For this to work, it makes sense to use lighting management systems that adapt the intensity of the lighting to the respective traffic density.{br} Learn more about the <a>developments of intelligent street lighting</a> from Siemens."
+  },
+  "slide12_hotspot11_header": {
+    "defaultMessage": "<b>Intelligent traffic management</b>"
+  },
+  "slide12_hotspot11_para1": {
+    "defaultMessage": "Due to the high amount of traffic in cities, it is important that cities remain or become sustainably attractive. Intelligent traffic management systems that measure, evaluate and adjust traffic flows accordingly help in this regard.{br} Read on about the {a}traffic management system{a} from Siemens."
+  },
+  "slide12_hotspot12_header": {
+    "defaultMessage": "<b>The intenet of farm animals</b>"
+  },
+  "slide12_hotspot12_para1": {
+    "defaultMessage": "Tracking sheep and cows with transmitters - what seems absurd at first glance is actually of real help. In the future, tracking devices and sensors shall track the behavior of flocks of sheep and cows, thereby providing timely warning of dangers, such as wolves, and chasing them away with the help of warning sounds. In addition, by using suitable software, shepherds will be able to find missing animals without exposing themselves to danger."
+  },
+  "slide12_hotspot13_header": {
+    "defaultMessage": "<b>Wind energy</b>"
+  },
+  "slide12_hotspot13_para1": {
+    "defaultMessage": "When it comes to generating wind energy, one thing counts above all: low operating costs (so-called \\'costs of energy\\'). To ensure this, the operation of wind turbines is continuously monitored. This makes it possible to react to problems and damage at an early stage. Costly repairs and impairment of energy production are thus avoided by evaluating data.{br}Learn more about the <a>Condition Monitoring System</a> from Siemens."
+  },
+  "slide12_hotspot14_header": {
+    "defaultMessage": "<b>Parking space management</b>"
+  },
+  "slide12_hotspot14_para1": {
+    "defaultMessage": "If you live in a city, it is often difficult to find parking spaces. Sensors monitor the utilization of parking spaces and parking garages. Road users are informed about available parking spaces and can selectively head for a free parking space. The reduced traffic volume due to fewer people looking for a parking space contributes to a more sustainable cityscape.{br}Inform yourself about the <a>Sitraffic Guide</a> from Siemens."
+  },
+  "slide12_hotspot15_header": {
+    "defaultMessage": "<b>Smart waste management</b>"
+  },
+  "slide12_hotspot15_para1": {
+    "defaultMessage": "Smart waste management involves the digitalization of waste management processes. This means that sensors measure the fill level of trash cans and containers and send it to the cloud via a network. There, the data is analyzed and disposal processes are automated. This contributes to more efficient and environmentally friendly waste disposal."
+  },
+  "slide12_hotspot16_header": {
+    "defaultMessage": "<b>Smart waters</b>"
+  },
+  "slide12_hotspot16_para1": {
+    "defaultMessage": "Through IoT, parameters of our environment can be captured, such as air and water quality. To monitor the quality of a body of water, sensors are used to measure factors such as pH, dissolved oxygen and dissolved ions. This data is collected, analyzed and visualized in the Cloud. In this way, countermeasures can be initiated in good time if limit values are exceeded."
+  },
+  "slide12_hotspot17_header": {
+    "defaultMessage": "<b>Industry 4.0</b>"
+  },
+  "slide12_hotspot17_para1": {
+    "defaultMessage": "The effects of digitalization are also becoming apparent in the industry. The intelligent networking of machines and processes is giving rise to what is known as Industry 4.0, which is characterized by a strong individualization of products and a high degree of flexibility in production. Customers and business partners are directly integrated into the value chain.{br} Learn more about <a>future industrial technologies</a> from Siemens."
+  },
+  "slide12_hotspot1_header": {
+    "defaultMessage": "<b>Smart Mobility</b>"
+  },
+  "slide12_hotspot1_para1": {
+    "defaultMessage": "Mobility fit for the future means using innovative technologies in public transport. Innovative mobility concepts such as electric vehicles are good for the environment and contribute to a quieter city life:{br} They reduce noise pollution and improve air quality. Siemens uses artificial intelligence to operate a driverless streetcar.{br} Learn more about the <a>autonomous Siemens Tram</a>"
+  },
+  "slide12_hotspot2_header": {
+    "defaultMessage": "<b>Social Media</b>"
+  },
+  "slide12_hotspot2_para1": {
+    "defaultMessage": "Quickly checking the news or sharing a new picture with friends - the Internet makes it possible. Worldwide, 3.81 billion people use social media every month. Whether Instagram, Facebook or Twitter, social media are more present than ever before and determine our everyday lives."
+  },
+  "slide12_hotspot3_header": {
+    "defaultMessage": "<b>Fitness Tracker</b>"
+  },
+  "slide12_hotspot3_para1": {
+    "defaultMessage": "Wearables are devices that are worn directly on the body, such as fitness trackers or wristbands. These record sporting activities and measure various vital parameters: Heart rate, blood pressure or sleep quality. Specialized sensors can also measure blood sugar and oxygen levels and proactively prevent illness and injury. In summary, the collection and evaluation of various vital parameters is referred to as 'quantified self'."
+  },
+  "slide12_hotspot4_header": {
+    "defaultMessage": "<b>Connected bikes</b>"
+  },
+  "slide12_hotspot4_para1": {
+    "defaultMessage": "There are already plenty of digital helpers for bicycles: air pressure monitoring, continuously controlled lighting, theft protection, brake pad wear indicators and traffic monitoring. However, the benefits of these systems are only great when they are integrated into a smart system. This can be done with the so-called 'connected bike'."
+  },
+  "slide12_hotspot5_header": {
+    "defaultMessage": "<b>Autonomous vehicles</b>"
+  },
+  "slide12_hotspot5_para1": {
+    "defaultMessage": "Self-driving cars are becoming a reality in many cities. By networking autonomous vehicles such as cars, buses and streetcars, safety can be increased while achieving more efficient mobility. For example, self-driving bus shuttles can pick up passengers and reliably take them to their destination - without a driver.{br} Find out how Siemens is promoting autonomous mobility via <a>bus shuttles</a>."
+  },
+  "slide12_hotspot6_header": {
+    "defaultMessage": "<b>Smart Home</b>"
+  },
+  "slide12_hotspot6_para1": {
+    "defaultMessage": "Automatic control, regulation and monitoring of building operations ensures greater security and comfort in the home. The lighting can be controlled, electrical appliances operated or doors locked via smartphone and tablet. Automations can also be created to make everyday life easier and the house safer. {br} Find out which Siemens <a>building functions</a> can be automated."
+  },
+  "slide12_hotspot7_header": {
+    "defaultMessage": "<b>Intelligent bridge</b>"
+  },
+  "slide12_hotspot7_para1": {
+    "defaultMessage": "The intelligent bridge is part of the so-called maintenance management, which is committed to the early detection of structural damage. Smart evaluation methods are used to record and transmit data on the condition of the structure. Data such as traffic loads, chloride concentrations, moisture content and temperature gradients are of particular interest. In this way, the first signs of damage and corrosion can be detected and appropriate solutions can be implemented."
+  },
+  "slide12_hotspot8_header": {
+    "defaultMessage": "<b>Smart Buildings</b>"
+  },
+  "slide12_hotspot8_para1": {
+    "defaultMessage": "Smart buildings are characterized by the fact that they adjust ventilation, lighting and temperature as needed, thereby optimizing energy efficiency. But building security can also be ensured through the use of building management platforms.{br}Find out more about Siemens <a>smart buildings</a>."
+  },
+  "slide12_hotspot9_header": {
+    "defaultMessage": "<b>Smart photovoltaic systems</b>"
+  },
+  "slide12_hotspot9_para1": {
+    "defaultMessage": "Solar energy is usually generated with the help of photovoltaic systems. Intelligent photovoltaic systems can be used to achieve optimum profit in this regard. These systems store measurement data in the cloud, monitor the individual solar modules and warn of any failures if necessary."
+  },
+  "slide12_mainHeader": {
+    "defaultMessage": "The City Goes Digital"
+  },
+  "slide12_para1": {
+    "defaultMessage": "Select objects in the image below that you think can contribute to a smart city. Read the explanations to learn more about the different technologies. Can you find all 18 objects?"
+  },
+  "slide12_success": {
+    "defaultMessage": "Congratulations!"
+  },
+  "slide12_success_para": {
+    "defaultMessage": "You have found all the objects."
+  },
+  "slide13_mainHeader": {
+    "defaultMessage": "The City Goes Digital"
+  },
+  "slide13_para1": {
+    "defaultMessage": "Different indicators are used to measure the digital progress of cities worldwide"
+  },
+  "slide13_para2": {
+    "defaultMessage": "Click on <a><b>this link</b></a> to explore a worldwide map of the most innovative smart cities and compare their digital progress. How smart is your own city?"
+  },
+  "slide14_mainHeader": {
+    "defaultMessage": "The Journey Continues"
+  },
+  "slide14_para1": {
+    "defaultMessage": "It's incredible what a smart city can do! It relieves us of tasks that we would normally have to do ourselves, improves processes and thus creates completely new possibilities."
+  },
+  "slide14_para2": {
+    "defaultMessage": "But the potential of the Internet of Things is still not exhausted. Continue your journey with the next learning unit to find out even more about the world of the future."
+  },
+  "slide14_para3": {
+    "defaultMessage": "One more thing: Even if your hometown becomes a Smart City, it is and will remain your hometown, and will probably still look very much the same 20 years from now as it does now. The Smart City does not replace your city - it makes it better and more livable!"
+  },
+  "slide20_mainHeader": {
+    "defaultMessage": "The industry of tomorrow: A Digital Enterprise"
+  },
+  "slide21_mainHeader": {
+    "defaultMessage": "IoT in the Industry"
+  },
+  "slide21_para1": {
+    "defaultMessage": "You've probably already guessed: The Internet of Things doesn't spare the industry. The networking of smart devices in the manufacturing and industrial environment even has its own name: Industrial Internet of Things, or IIoT for short. Used correctly, the IIoT can improve a company's growth, competitiveness and future viability while making industry more sustainable."
+  },
+  "slide21_para2": {
+    "defaultMessage": "At Siemens, we call the networking of the virtual world with the physical world in companies the 'Digital Enterprise'. Learn more about it on the following pages."
+  },
+  "slide22_hotspot1": {
+    "defaultMessage": "<b>Connecting the digital and physical worlds:</b>{br} A true Digital Enterprise harnesses the potential of digital data to gain valuable insights and make fast, confident decisions in the real world."
+  },
+  "slide22_hotspot2": {
+    "defaultMessage": "<b>Working with comprehensive Digital Twins:</b>{br} A Digital Twin represents an object of the real world in the digital world. Working with Digital Twins makes it possible to integrate the entire product lifecycle. The data generated in the digital world guarantees a continuous optimization process in the physical world."
+  },
+  "slide22_hotspot3": {
+    "defaultMessage": "<b>Follow the Digital Threads:</b>{br} Digital Threads digitally connect all processes and tasks throughout a product's lifecycle. A true Digital Enterprise integrates its business processes with Digital Threads."
+  },
+  "slide22_hotspot4": {
+    "defaultMessage": "<b>Bringing processes together:</b>{br} The Digital Enterprise brings together processes that normally run separately. It breaks down traditional silos and thus closes important gaps, e.g. between software and hardware."
+  },
+  "slide22_mainHeader": {
+    "defaultMessage": "D as in Digital"
+  },
+  "slide22_para1": {
+    "defaultMessage": "Only when product development, automation of production processes and digitalization go hand in hand, the so-called digital enterprise is created - in other words, a digital company."
+  },
+  "slide22_para2": {
+    "defaultMessage": "Click on the plus signs to find out what a true Digital Enterprise can do"
+  },
+  "slide23_button": {
+    "defaultMessage": "To website"
+  },
+  "slide23_mainHeader": {
+    "defaultMessage": "The Digital Enterprise"
+  },
+  "slide23_para1": {
+    "defaultMessage": "You have reached the end of the Internet of Things module."
+  },
+  "slide23_para2": {
+    "defaultMessage": "Learn more about the Digital Enterprise in this video."
+  },
+  "slide23_para_hidden": {
+    "defaultMessage": "Learn more about Digital Enterprise at Siemens on our website."
+  }
+}

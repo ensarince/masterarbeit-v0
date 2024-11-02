@@ -1,0 +1,72 @@
+{
+  "data": "dummy session",
+  "course": "siemens-cybersecurity",
+  "chapter": "1",
+  "slide": "1",
+  "chats": [
+    {
+      "sender": "user",
+      "message": "hallo"
+    },
+    {
+      "sender": "user",
+      "message": "I said halloı"
+    },
+    {
+      "sender": "user",
+      "message": "run now"
+    },
+    {
+      "sender": "user",
+      "message": "now work"
+    },
+    {
+      "sender": "user",
+      "message": "I said work"
+    },
+    {
+      "sender": "user",
+      "message": "why are you not working"
+    },
+    {
+      "sender": "user",
+      "message": "please worjk"
+    },
+    {
+      "sender": "user",
+      "message": "are you good now?"
+    },
+    {
+      "sender": "user",
+      "message": "still not working ha"
+    },
+    {
+      "sender": "user",
+      "message": "so?"
+    },
+    {
+      "sender": "user",
+      "message": "maybe now?"
+    },
+    {
+      "sender": "user",
+      "message": "why are you not working_"
+    },
+    {
+      "sender": "assistant",
+      "message": "I do suck"
+    },
+    {
+      "sender": "user",
+      "message": "yes you do"
+    },
+    {
+      "sender": "user",
+      "message": "try again"
+    },
+    {
+      "sender": "user",
+      "message": "please work"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "course": "siemens-cybersecurity",
+  "chapter": "1",
+  "slide": "1",
+  "chats": [
+    {
+      "sender": "assistant",
+      "message": "Hallo Tatjana"
+    },
+    {
+      "sender": "user",
+      "message": "whats up"
+    },
+    {
+      "sender": "user",
+      "message": "whats up"
+    },
+    {
+      "sender": "user",
+      "message": "was geht"
+    },
+    {
+      "sender": "user",
+      "message": "u suck"
+    },
+    {
+      "sender": "user",
+      "message": "so you are working now_"
+    },
+    {
+      "sender": "user",
+      "message": "hwo are you"
+    },
+    {
+      "sender": "user",
+      "message": "try"
+    },
+    {
+      "sender": "assistant"
+    },
+    {
+      "sender": "user",
+      "message": "again"
+    },
+    {
+      "sender": "assistant"
+    },
+    {
+      "sender": "user",
+      "message": "again trying"
+    },
+    {
+      "sender": "assistant"
+    },
+    {
+      "sender": "user",
+      "message": "again"
+    },
+    {
+      "sender": "assistant"
+    }
+  ],
+  "thread_id": "thread_FEmjNlPqJKo9hcPneCQ7AC9V"
+}

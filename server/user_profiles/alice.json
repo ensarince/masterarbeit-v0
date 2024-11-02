@@ -1,0 +1,8 @@
+{
+    "username": "alice",
+    "password": "didactic",
+    "user_prompt": "alice is a quiet person and does not wish to have much interactions, so precise communication is probably a good idea",
+    "language_complexity": "Low",
+    "answer_length": "1-4 Sentence",
+    "Salutation": "Alice"
+}

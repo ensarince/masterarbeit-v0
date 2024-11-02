@@ -1,0 +1,56 @@
+{
+  "course": "siemens-cybersecurity",
+  "chapter": "1",
+  "slide": "1",
+  "chats": [
+    {
+      "sender": "assistant",
+      "message": "Hallo Ivan"
+    },
+    {
+      "sender": "user",
+      "message": "are you ready ?"
+    },
+    {
+      "sender": "user",
+      "message": "hallo"
+    },
+    {
+      "sender": "user",
+      "message": "hallo"
+    },
+    {
+      "sender": "user",
+      "message": "bitte"
+    },
+    {
+      "sender": "assistant",
+      "message": "Natürlich, wie kann ich Ihnen beim Verständnis des ersten Kapitels und der ersten Slide helfen? Wenn Sie konkrete Fragen haben oder eine Zusammenfassung wünschen, lassen Sie es mich einfach wissen!"
+    },
+    {
+      "sender": "user",
+      "message": "wassup"
+    },
+    {
+      "sender": "assistant",
+      "message": "Hallo! Ich bin hier, um dir zu helfen. Was genau möchtest du über Kapitel 1, Slide 1 erfahren oder diskutieren? "
+    },
+    {
+      "sender": "user",
+      "message": "kannst du English?"
+    },
+    {
+      "sender": "assistant",
+      "message": "Ja, ich kann auf Englisch antworten. Feel free to ask your question in English if that's more comfortable for you!"
+    },
+    {
+      "sender": "user",
+      "message": "can you tell me how did you get customized for this course?"
+    },
+    {
+      "sender": "assistant",
+      "message": "Absolutely! I am designed to adapt to various topics and courses based on the information provided to me. For this particular course, my customization involves aligning with the curriculum you’re studying, which has been programmed into my system. This way, I can assist you effectively with the content from Chapter 1, Slide 1 and beyond. How can I assist you with the course material today?"
+    }
+  ],
+  "thread_id": "thread_cvpqgoDf8CFlpjAs9L1tovms"
+}

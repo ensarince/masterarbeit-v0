@@ -1,0 +1,23 @@
+{
+    "data": "dummy session",
+    "course": "siemens-cybersecurity",
+    "chapter": "chapter_1",
+    "slide": "1",
+    "chats": [
+        {
+          "timestamp": "2024-02-12T12:00:00",
+          "sender": "User1",
+          "message": "Hello, how are you?"
+        },
+        {
+          "timestamp": "2024-02-12T12:05:00",
+          "sender": "User2",
+          "message": "I'm good, thank you. How about you?"
+        },
+        {
+          "timestamp": "2024-02-12T12:10:00",
+          "sender": "User1",
+          "message": "I'm doing well too. Thanks for asking."
+        }
+      ]
+}
