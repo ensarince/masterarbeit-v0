@@ -3,6 +3,7 @@ import { OpenAI } from 'openai';
 import cors from "cors"
 import express from "express"
 import bodyParser from "body-parser";
+import {defaultMiddleware} from '@nlbridge/express';
 
 config()
 
@@ -59,7 +60,12 @@ app.post("/chatbot", async (req, res) => {
     }
 });
 
-
+app.post('/chat-api',
+    defaultMiddleware('openai', {
+        apiKey: api_key,
+        chatModel: 'gpt-3.5-turbo',
+    }),
+);
 
 //! useful functions for later use
 /* get the user session, call populate a thread(iplik)*/
