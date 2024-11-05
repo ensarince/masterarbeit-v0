@@ -1,9 +1,11 @@
 import { useEffect, useState } from "react";
 import axios from "axios"
-import styles from "./Chatbot.module.scss"
 import { User } from "firebase/auth";
 import { collection, addDoc, getFirestore, onSnapshot, orderBy, query } from "firebase/firestore";
 import { app } from "../../firebase"; 
+import TypewriterText from "../TypewriterText";
+
+import styles from "./Chatbot.module.scss"
 
 type Props = {
     user: User | null;
@@ -75,6 +77,12 @@ export default function Chatbot({
         }
     };
 
+      // Find the index of the last bot message for typewriter effect
+    const lastBotMessageIndex = messages
+        .map((msg, index) => (msg.sender === "bot" ? index : -1))
+        .filter(index => index !== -1)
+        .pop();
+
 return (
     <div className={styles.container}>
         <div className={styles.chatbox}>
@@ -84,13 +92,17 @@ return (
                         className={`${styles.message} ${styles[msg.sender]}`}
                     >
                         <div className={`${styles.bubble} ${styles[msg.sender]}`}>
-                            {msg.text}
+                            {msg.sender === "bot" && index === lastBotMessageIndex ? (
+                                <TypewriterText text={msg.text} />
+                            ) : (
+                                msg.text
+                            )}
                         </div>
                     </div>
                 ))}
             {isLoading && 
                 <div className={styles.typingIndicator}>
-                    Bot is typing...
+                    Bot is thinking...
                 </div>
             }
         </div>
